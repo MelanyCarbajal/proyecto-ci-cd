@@ -5,6 +5,10 @@ public class ProductoService {
         System.out.println("Prenda: " + nombre);
         System.out.println("Talla: " + talla);
         System.out.println("Precio: $" + precio);
+
+        System.out.println("Prenda 2: " + nombre);
+        System.out.println("Talla : " + talla);
+        System.out.println("Precio: $" + precio);
     }
 
 }
